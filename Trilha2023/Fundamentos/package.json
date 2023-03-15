@@ -1,16 +1,10 @@
 {
-  "name": "fundamentos",
-  "type": "module",
+  "name": "Fundamentos",
+  "type":"module",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch src/server.js"
+    "dev": "node --watch src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^3.3.0"
-  }
+  "license": "MIT"
 }
